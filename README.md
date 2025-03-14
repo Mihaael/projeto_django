@@ -7,7 +7,7 @@
 ## Equipe : 
 
 * - Guilherme Rapela Medeiros	- grm2@cesar.school
-* - Hugo Diêgo Da Silva Arruda	- hdse@cesar.school
+* - Hugo Diêgo Da Silva Arruda	- hdsa@cesar.school
 * - João Guilherme Almeida	- jgbof@cesar.school
 * - José Vitor Gomes Veloso	- jvgv@cesar.school
 * - Lucas Samuel Pereira Alves	- lspa@cesar.school
