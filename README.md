@@ -2,6 +2,8 @@
 
 ## Descrição do projeto : 
 
+## link para o docshttps://docs.google.com/document/d/1qxWeY8sgxpPxejGPDY0ZJitrgwIRGgKHSkECFL7OSgg/edit?tab=t.0
+
 ### O projeto será um e-commerce voltado para venda de livros e e-books.
 
 ## Equipe : 
